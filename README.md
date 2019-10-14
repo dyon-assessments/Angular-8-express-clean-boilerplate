@@ -2,9 +2,8 @@
 
 **summary:**
 
-A fresh angular 8 cli install with a fresh express install only 1 test route is added in express the rest is clean and simple. Just connect with your backend with the /api/\*
+A fresh angular 8 cli install with a fresh express install only 1 test route is added in express the rest is clean and simple. Just connect with your backend with the proxy /api/*
 
-because a proxy is set
 
 **Run application:**
 
